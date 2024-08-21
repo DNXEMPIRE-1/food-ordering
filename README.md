@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="dennisnzioki.com" alt="Food Ordering App Logo" width="150">
+  
 </p>
 
 <p align="center">An ongoing project for a modern and delightful food ordering experience built with Next.js.</p>
