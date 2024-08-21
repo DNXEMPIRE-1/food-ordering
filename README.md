@@ -1,7 +1,7 @@
 # Food Ordering Next.js App 🍔🚀
 
 <p align="center">
-  <img src="https://your-food-ordering-app-logo-url.com" alt="Food Ordering App Logo" width="150">
+  <img src="dennisnzioki.com" alt="Food Ordering App Logo" width="150">
 </p>
 
 <p align="center">An ongoing project for a modern and delightful food ordering experience built with Next.js.</p>
